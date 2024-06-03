@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARF.VUE.ASPNETCore.TravelBookingPlatform.Server", "ARF.VUE.ASPNETCore.TravelBookingPlatform.Server\ARF.VUE.ASPNETCore.TravelBookingPlatform.Server.csproj", "{6ECDBE0B-9C5A-4557-B6FD-BD48D31058E3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "arf.vue.aspnetcore.travelbookingplatform.client", "arf.vue.aspnetcore.travelbookingplatform.client\arf.vue.aspnetcore.travelbookingplatform.client.esproj", "{9F81B3B8-F6D6-47BF-969B-B48426F0094D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF.Models", "ARF.Models\ARF.Models.csproj", "{E5139A84-4F45-4F93-BDD1-2D51063EE446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF.Repositories", "ARF.Repositories\ARF.Repositories.csproj", "{563933EC-FADA-4111-8DC7-446A01E952B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF.DAL", "ARF.DAL\ARF.DAL.csproj", "{21D8F959-837B-4712-ADC6-DD5656EA297F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECDBE0B-9C5A-4557-B6FD-BD48D31058E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECDBE0B-9C5A-4557-B6FD-BD48D31058E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECDBE0B-9C5A-4557-B6FD-BD48D31058E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECDBE0B-9C5A-4557-B6FD-BD48D31058E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F81B3B8-F6D6-47BF-969B-B48426F0094D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F81B3B8-F6D6-47BF-969B-B48426F0094D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F81B3B8-F6D6-47BF-969B-B48426F0094D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F81B3B8-F6D6-47BF-969B-B48426F0094D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F81B3B8-F6D6-47BF-969B-B48426F0094D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F81B3B8-F6D6-47BF-969B-B48426F0094D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E5139A84-4F45-4F93-BDD1-2D51063EE446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5139A84-4F45-4F93-BDD1-2D51063EE446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5139A84-4F45-4F93-BDD1-2D51063EE446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5139A84-4F45-4F93-BDD1-2D51063EE446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563933EC-FADA-4111-8DC7-446A01E952B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563933EC-FADA-4111-8DC7-446A01E952B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563933EC-FADA-4111-8DC7-446A01E952B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563933EC-FADA-4111-8DC7-446A01E952B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D8F959-837B-4712-ADC6-DD5656EA297F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D8F959-837B-4712-ADC6-DD5656EA297F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D8F959-837B-4712-ADC6-DD5656EA297F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D8F959-837B-4712-ADC6-DD5656EA297F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {024C6B42-D0D1-482D-AEC3-771B97678CE5}
+	EndGlobalSection
+EndGlobal

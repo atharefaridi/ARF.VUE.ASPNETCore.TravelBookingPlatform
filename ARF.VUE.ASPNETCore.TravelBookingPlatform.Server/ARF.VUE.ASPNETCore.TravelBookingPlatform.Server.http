@@ -1,0 +1,6 @@
+@ARF.VUE.ASPNETCore.TravelBookingPlatform.Server_HostAddress = http://localhost:5091
+
+GET {{ARF.VUE.ASPNETCore.TravelBookingPlatform.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
